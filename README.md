@@ -89,4 +89,3 @@ jupyter notebook fraud_detection_rf.ipynb
 🙋‍♀️ Author
 Aastha Mirchandani
 Aspiring finance + data professional | USFCA
-Connect with me on LinkedIn
